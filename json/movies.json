@@ -1,0 +1,71 @@
+var movies =[{
+	"title" : "PulpFiction",
+	"length" : "154",
+	"price" : "8",
+	"stars" : "John Travolta, Uma Thurman, Samuel L. Jackson",
+	"img" : "img/movie11.jpg",
+	"like" : 1
+},{
+	"title" : "Inglorious Bastasrds",
+	"length" : "153",
+	"price" : "10",
+	"stars" : "Brad Pitt, Diane Kruger, Eli Roth",
+	"img" : "img/movie2.jpg",
+	"like" : 1
+},{
+	"title" : "Hateful Eigth",
+	"length" : "187",
+	"price" : "11",
+	"stars" : "Samuel L. Jackson, Kurt Russell, Jennifer Jason Leigh",
+	"img" : "img/movie3.jpg",
+	"like" : 1
+},{
+	"title" : "Reservoir Dogs",
+	"length" : "99",
+	"price" : "6",
+	"stars" : "Harvey Keitel, Tim Roth, Michael Madsen",
+	"img" : "img/movie4.jpg",
+	"like" : 1
+},{
+	"title" : "Figth Club",
+	"length" : "139",
+	"price" : "7.5",
+	"stars" : "Brad Pitt, Edward Norton, Meat Loaf",
+	"img" : "img/movie5.jpg",
+	"like" : 1
+},{
+	"title" : "RocknRolla",
+	"length" : "114",
+	"price" : "9",
+	"stars" : "Gerard Butler, Tom Wilkinson, Idris Elba",
+	"img" : "img/movie6.jpg",
+	"like" : 1
+},{
+	"title" : "Snatch",
+	"length" : "104",
+	"price" : "5.5",
+	"stars" : "Jason Statham, Brad Pitt, Benicio Del Toro",
+	"img" : "img/movie7.jpg",
+	"like" : 1
+},{
+	"title" : "Nincs kettő négy nélkül",
+	"length" : "99",
+	"price" : "99",
+	"stars" : "Bud Spencer, Terence Hill",
+	"img" : "img/movie8.jpg",
+	"like" : 1
+},{
+	"title" : "Lock, Stock and Two Smoking Barrels",
+	"length" : "107",
+	"price" : "39",
+	"stars" : "Jason Flemyng, Dexter Fletcher, Nick Moran",
+	"img" : "img/movie30.jpg",
+	"like" : 1
+},{
+	"title" : "Pineapple Express",
+	"length" : "111",
+	"price" : "7",
+	"stars" : "Seth Rogen, James Franco, Gary Cole",
+	"img" : "img/movie10.jpg",
+	"like" : 1			
+}]
