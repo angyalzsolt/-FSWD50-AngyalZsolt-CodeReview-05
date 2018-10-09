@@ -35,17 +35,16 @@ function sort(movies){
 	for(j=0; j<f; j++){
 		for (i=0; i < (f-1); i++){
     	if(movies[i].like < movies[i+1].like){
-    		swap(i, i+1);
-    		
-    	}
+    		swap(i, i+1);	
+    	};
     }
 	}
-
-	
-
 	$(".col-lg-6").remove();
-	console.log(movies)
-	load()
+	console.log(movies);
+	load();
+	$(".btn").on("click", function() {
+		like(this.name);
+})
 }
 
 	/*function sort() {
